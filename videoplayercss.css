@@ -1,0 +1,22 @@
+/* for the position div */
+.media{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.column {   
+  float: left;
+    margin-left: 160px;
+  width: 75%;
+}
+
+.n12:after {
+  content: "";
+  display: table;
+  clear: both;
+
+}
+
+
+
